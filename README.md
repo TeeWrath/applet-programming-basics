@@ -1,0 +1,1 @@
+# Program to practice applet programming
